@@ -1,0 +1,6 @@
+name: AVoidCard
+version: '${version}'
+main: org.fastmcmirror.avoidcard.AVoidCard
+api-version: 1.13
+authors: [ FlyProject ]
+description: Next Gen AVoid Death System
