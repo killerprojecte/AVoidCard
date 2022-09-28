@@ -1,4 +1,4 @@
-![LOGO](https://rgbmc.ml/AVoidCard.png)
+![LOGO](logo.png)
 ## AVoidCard
 - Next Gen AVoid Death System
 - Release Soon!
