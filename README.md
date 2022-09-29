@@ -1,4 +1,4 @@
 <img src="logo.png" width=64 alt="LOGO"></img>
-## AVoidCard
-- Next Gen AVoid Death System
-- Release Soon!
+## ![BANNER](banner.png)
+- **Next Gen AVoid Death System**
+- **<font color="#87CEFA">Release _Soon_！</font>**
