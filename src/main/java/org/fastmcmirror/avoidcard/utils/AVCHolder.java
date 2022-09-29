@@ -20,4 +20,9 @@ public class AVCHolder implements InventoryHolder {
     public EntityDamageEvent getEvent() {
         return event;
     }
+
+    private boolean finish = false;
+    public boolean isFinish(){return finish;}
+
+    public void setFinish(boolean status){finish = status;}
 }
